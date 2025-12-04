@@ -1,1 +1,16 @@
-
+STRINGTABLE
+BEGIN
+nineinch_1 "nine inch nails"
+2310_2 "2310"
+777_3 "777"
+lkjhg_4 "lkjhg"
+HALLOWEE_5 "HALLOWEEN"
+FINAL_6 "FINAL"
+trytwo_7 "try two"
+question_8 "question"
+beta_9 "beta"
+sheep_10 "sheep"
+giraffe_11 "giraffe"
+elephant_12 "elephant"
+newstrin_13 "new string"
+END
