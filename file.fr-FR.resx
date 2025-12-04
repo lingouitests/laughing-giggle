@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
   <data name="nineinch_1">
     <value><![CDATA[clous de neuf pouces]]></value>
@@ -25,7 +25,7 @@
     <value><![CDATA[question]]></value>
   </data>
   <data name="beta_9">
-    <value><![CDATA[bÃªta]]></value>
+    <value><![CDATA[bêta]]></value>
   </data>
   <data name="sheep_10">
     <value><![CDATA[mouton]]></value>
@@ -34,9 +34,9 @@
     <value><![CDATA[girafe]]></value>
   </data>
   <data name="elephant_12">
-    <value><![CDATA[Ã©lÃ©phant]]></value>
+    <value><![CDATA[éléphant]]></value>
   </data>
   <data name="newstrin_13">
-    <value><![CDATA[nouvelle chaÃ®ne]]></value>
+    <value><![CDATA[nouvelle chaîne]]></value>
   </data>
 </root>
