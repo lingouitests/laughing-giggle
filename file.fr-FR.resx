@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <data name="nineinch_1">
-    <value><![CDATA[nine inch nails]]></value>
+    <value><![CDATA[clous de neuf pouces]]></value>
   </data>
   <data name="2310_2">
     <value><![CDATA[2310]]></value>
@@ -16,36 +16,27 @@
     <value><![CDATA[HALLOWEEN]]></value>
   </data>
   <data name="FINAL_6">
-    <value><![CDATA[FINAL]]></value>
+    <value><![CDATA[FINALE]]></value>
   </data>
   <data name="trytwo_7">
-    <value><![CDATA[try two]]></value>
+    <value><![CDATA[essayez-en deux]]></value>
   </data>
   <data name="question_8">
     <value><![CDATA[question]]></value>
   </data>
   <data name="beta_9">
-    <value><![CDATA[beta]]></value>
+    <value><![CDATA[bÃªta]]></value>
   </data>
   <data name="sheep_10">
-    <value><![CDATA[sheep]]></value>
+    <value><![CDATA[mouton]]></value>
   </data>
   <data name="giraffe_11">
-    <value><![CDATA[giraffe]]></value>
+    <value><![CDATA[girafe]]></value>
   </data>
   <data name="elephant_12">
-    <value><![CDATA[elephant]]></value>
+    <value><![CDATA[Ã©lÃ©phant]]></value>
   </data>
   <data name="newstrin_13">
-    <value><![CDATA[new string]]></value>
-  </data>
-  <data name="seven_14">
-    <value><![CDATA[seven]]></value>
-  </data>
-  <data name="alpha_15">
-    <value><![CDATA[alpha]]></value>
-  </data>
-  <data name="newgamma_16">
-    <value><![CDATA[newgamma]]></value>
+    <value><![CDATA[nouvelle chaÃ®ne]]></value>
   </data>
 </root>
