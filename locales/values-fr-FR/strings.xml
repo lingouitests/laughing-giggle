@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="nineinch_1" translatable="true"><![CDATA[clous de neuf pouces]]></string>
-  <string name="2310_2" translatable="true"><![CDATA[2310]]></string>
-  <string name="777_3" translatable="true"><![CDATA[777]]></string>
-  <string name="lkjhg_4" translatable="true"><![CDATA[lkjhg]]></string>
-  <string name="HALLOWEE_5" translatable="true"><![CDATA[HALLOWEEN]]></string>
-  <string name="FINAL_6" translatable="true"><![CDATA[FINALE]]></string>
-  <string name="trytwo_7" translatable="true"><![CDATA[essayez-en deux]]></string>
-  <string name="question_8" translatable="true"><![CDATA[question]]></string>
-  <string name="beta_9" translatable="true"><![CDATA[bÃªta]]></string>
-  <string name="sheep_10" translatable="true"><![CDATA[mouton]]></string>
-  <string name="giraffe_11" translatable="true"><![CDATA[girafe]]></string>
-  <string name="elephant_12" translatable="true"><![CDATA[Ã©lÃ©phant]]></string>
-  <string name="newstrin_13" translatable="true"><![CDATA[nouvelle chaÃ®ne]]></string>
+  <string translatable="true" name="nineinch_1"><![CDATA[clous de neuf pouces]]></string>
+  <string translatable="true" name="2310_2"><![CDATA[2310]]></string>
+  <string translatable="true" name="777_3"><![CDATA[777]]></string>
+  <string translatable="true" name="lkjhg_4"><![CDATA[lkjhg]]></string>
+  <string translatable="true" name="HALLOWEE_5"><![CDATA[HALLOWEEN]]></string>
+  <string translatable="true" name="FINAL_6"><![CDATA[FINALE]]></string>
+  <string translatable="true" name="trytwo_7"><![CDATA[essayez-en deux]]></string>
+  <string translatable="true" name="question_8"><![CDATA[question]]></string>
+  <string translatable="true" name="beta_9"><![CDATA[bêta]]></string>
+  <string translatable="true" name="sheep_10"><![CDATA[mouton]]></string>
+  <string translatable="true" name="giraffe_11"><![CDATA[girafe]]></string>
+  <string translatable="true" name="elephant_12"><![CDATA[éléphant]]></string>
+  <string translatable="true" name="newstrin_13"><![CDATA[nouvelle chaîne]]></string>
 </resources>
